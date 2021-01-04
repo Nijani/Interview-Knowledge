@@ -1,0 +1,59 @@
+Dependency injection (crate obj and use its properties)
+Inversion of control (to acheive loosely coupling- control flow of a program)
+
+OOP
+Abstratcion (give necessary details only)
+Inheritance (old class's methods)
+Encaptulation (obj and its attributes and methods)
+Polymophism (an object can be many forms)
+
+states of threads
+New.
+Runnable.
+Blocked.
+Waiting.
+Timed Waiting.
+Terminated.
+
+static 
+class based
+method- auto start
+
+
+JVM created at runtime
+JRE implemteation jvm physical existance having libraries
+JDK JRE+developer tools
+
+Just In  Time compalire
+cobvert byte to machin native langyage
+
+access specifier
+public all
+protecetd with package ad sub ckass
+default in package
+private class
+
+Design patterns (creational behavioral structural)
+Singleton -one instance with global access (early and lazy instantiation)
+  prvate constructer static member (memory only once)
+  global access - by return to caller
+Factory - 
+Abstract - 
+prototype - 
+builder - 
+
+
+Synchronized - wait to start until another starts (dependent)
+Asynchronized
+
+Serialization  - convert obj to byte stream (to travel obj thoruhg NW)
+deserialization - 
+
+Java 8
+Lambda expression  (argumwnet list) -> {body}
+Method reference using in Lambda
+
+throw
+
+
+
